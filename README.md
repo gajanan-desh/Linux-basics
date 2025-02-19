@@ -7,7 +7,3 @@ This script automates the process of creating a new user, setting a password, an
 1. Adds a new user with a specified username.
 2. Sets a password for the user.
 3. Assigns the user to a specified group.
-
-## 🛠️ How to Use
-Run the following command to execute the script:
-```bash
